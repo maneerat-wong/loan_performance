@@ -1,2 +1,2 @@
 # loan_performance
-Personal project on analysis loan performance
+Personal project on loan performance analysis 
