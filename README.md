@@ -3,7 +3,7 @@ Personal project on loan performance analysis
 
 The purpose of this project is to explore the likelihood of good loan and bad loan in each lender from the loan performance data as a lending company.Therefore, I want to explore the factors of people paying or not paying the loan and conduct the model to predict whether my future borrowers are going to pay the loan.
 
-This data set is quite challanging because I've never train the model for the highly imbalanced data  before. The ratio of good and bad loan is 5:95 but it's quite common for the data like this (similar to the fraud detection)
+This data set is quite challanging because it's highly imbalanced data. The ratio of good and bad loan is 5:95 but it's quite common for the data like this (similar to the fraud detection)
 
 ## Data Exploration
 - Interest rate has the highest association with the loan type which means that the higher the interest rate, the higher chance that the loan will become a bad loan. However, the correlation score between interest rate and loan type  is not that high(less than 0.5) so the distribution between two groups is not significantly different.
